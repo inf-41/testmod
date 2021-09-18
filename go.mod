@@ -1,4 +1,3 @@
-module github.com/inf-41/testmod
-module github.com/inf-41/testmod/v2
+module github.com/inf-41/testmod/v3
 
 go 1.17
